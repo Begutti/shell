@@ -1,3 +1,2 @@
 #!/bin/bash
-suma=127+1
-TRUEKNOWLEDGE=128
+echo $((128 + $TRUEKNOWLEDGE))
