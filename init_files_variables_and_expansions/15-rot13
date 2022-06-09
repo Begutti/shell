@@ -1,2 +1,2 @@
 #!/bin/bash
-echo hola amor, como estas | rot13
+#!/ova/onfu "hola amor, como estas"
